@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reena-senthilkumar" alt="reena-senthilkumar" /></a> </p>
 
-<p align="left"> <a href="(https://x.com/Senthil31998649)" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/senthil31998649?t=71cqfcelkxtm6q3fowcdcg&s=08?logo=twitter&style=for-the-badge" alt="https://x.com/senthil31998649?t=71cqfcelkxtm6q3fowcdcg&s=08" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
