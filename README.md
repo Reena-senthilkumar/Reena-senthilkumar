@@ -10,6 +10,12 @@
 </p>
 
 <p align="center">
+  <a href="https://gitmash.netlify.app/">
+    <img src="https://img.shields.io/badge/GitMash%20Score-Check%20Now-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="GitMash Score" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=reena-senthilkumar&theme=radical&column=7&margin-w=15&margin-h=15" alt="Trophies" />
   </a>
