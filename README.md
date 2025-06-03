@@ -74,6 +74,10 @@ A machine learning-based system to predict mental health conditions like anxiety
   <a href="https://x.com/Senthilkumar31998649">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white" alt="X" />
   </a>
+  <a href="https://github.com/reena-senthilkumar">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
 </p>
 
 <h3 align="center">💻 Coding Profiles</h3>
@@ -88,6 +92,7 @@ A machine learning-based system to predict mental health conditions like anxiety
   <a href="https://www.codechef.com/users/reena_s">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef" />
   </a>
+  
 </p>
 
 
