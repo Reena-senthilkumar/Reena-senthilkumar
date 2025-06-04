@@ -87,8 +87,10 @@ A machine learning-based system to predict mental health conditions like anxiety
 </p>
 
 <h3 align="center">💻 Coding Profiles</h3>
-
 <p align="center">
+  <a href="https://www.skillrack.com/faces/resume.xhtml?id=419444&key=13510aac980dfa894be6bacc7e3dc2bc11e6c110" target="_blank">
+    <img src="https://img.shields.io/badge/Skillrack-View_Profile-blue?logo=codeforces&logoColor=white" alt="Skillrack Profile" />
+  </a>
   <a href="https://leetcode.com/u/reena_senthilkumar2005">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
