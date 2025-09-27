@@ -32,16 +32,6 @@
 
 ## 🧠 Mental Health Prediction using Machine Learning
 
-A machine learning-based system to predict mental health conditions like anxiety, depression, and panic attacks using student survey data.
-
-- 🔧 **Tools Used**: Python, Google Colab
-- 📊 **Algorithms**: Decision Tree & Random Forest
-- 📈 **Best Accuracy**: Random Forest – 87.10%
-- 📌 Predictions based on gender and course
-- ✅ Outcome: Random Forest performed better than Decision Tree
-
----
-
 ## 💻 Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-ff69b4?style=for-the-badge&logo=html5&logoColor=white" />
