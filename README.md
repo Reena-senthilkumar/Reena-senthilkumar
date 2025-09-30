@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, I'm REENA_S</h1>
+<h1 align="center">Hi👋, I'm REENA.S</h1>
 
 <h3 align="center">
 🌸 A passionate Computer Science and Business Systems (CSBS) student at <b>K. Ramakrishnan College of Engineering</b>.<br>
