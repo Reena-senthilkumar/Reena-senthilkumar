@@ -1,6 +1,5 @@
 <h1 align="center">Hi👋, I'm REENA</h1>
 
-
 <h3 align="center">
 🌸 A passionate Computer Science and Business Systems (CSBS) student at <b>K. Ramakrishnan College of Engineering</b>.<br>
 💡 I love building creative tech projects that solve real-world problems, blending my technical and artistic interests in web development, Java, data structures, and AI.
