@@ -1,60 +1,92 @@
-<!-- Title -->
-<h1 align="center">🚀 Reena’s Campus Prep Hub</h1>
+<h1 align="center">🌸 Hi, I'm <b>REENA</b> 👋</h1>
+
+<h3 align="center">
+A passionate CSBS student blending technology & creativity.<br>
+💡 I love solving problems, building useful projects, and learning something new every day.
+</h3>
+
+---
+
+## 🌼 About Me  
+- 💻 I solve **3 LeetCode problems daily** to improve my logic  
+- ✍️ I learn **10 new vocabulary words daily** to improve communication  
+- 🎨 Hobbies: Painting walls, crafting with waste, gardening  
+- 🚀 Goal: Get placed in a reputed MNC and build my own startup in future  
+
+---
+
 <p align="center">
-  <b>Your one-stop hub for Aptitude • Java • DSA • SQL • LeetCode • Projects</b>
+  <img src="https://komarev.com/ghpvc/?username=reena-senthilkumar&label=Profile%20Views&color=ff69b4&style=flat" />
+</p>
+
+<p align="center">
+  <a href="https://gitmash.netlify.app/">
+    <img src="https://img.shields.io/badge/GitMash%20Score-Check%20Now-ff69b4?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 </p>
 
 ---
 
-<!-- Logos -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/reactjs/reactjs.org/main/src/icons/logo.svg" width="65"/>
-  &nbsp;&nbsp;
-  <img src="https://nodejs.org/static/images/logo.svg" width="65"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="65"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="65"/>
-</div>
+## 🏆 Highlight Trophies (Minimal & Beautiful)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=reena-senthilkumar&theme=radical&column=3&no-frame=true&margin-w=15&margin-h=15" />
+</p>
 
 ---
 
-## 🧭 **About This Repository**
-
-This repo is my **daily practice space**, where I sharpen my skills for top company placements.  
-Here, I upload:
-
-- 🔹 Aptitude questions  
-- 🔹 LeetCode Java solutions  
-- 🔹 DSA patterns  
-- 🔹 SQL + MySQL practice  
-- 🔹 Java programs  
-- 🔹 My Mini Projects  
-
-I’ve already solved **🔥 1000+ problems** across platforms and continue to practice every single day.
+## 👑 Achievement
+- 🏆 **Ms. Smart'24 Award Winner** – Recognized for intelligence, creativity & presentation skills.
 
 ---
 
-## 🏆 **My Achievements So Far**
-
-- ✔️ Solved **1000+ coding problems**  
-- ✔️ Strong in **Java + SQL + DSA fundamentals**  
-- ✔️ Completed ML Mini Project – *Mental Health Prediction*  
-- ✔️ Daily Aptitude + LeetCode streak  
-- ✔️ Building full-stack apps using **React + Node**
+## 🧪 Mini Project
+### 🧠 **Mental Health Prediction using Machine Learning**
+- 📊 Built using Python, Pandas, ML models  
+- 🧼 Includes preprocessing, model evaluation & predictions  
+- 🎯 Purpose: Create awareness & analyze mental health patterns  
 
 ---
 
-## 🔥 **Badges That Represent My Journey**
+## 💗 Tech Skills
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-ff69b4?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-ff69b4?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ff69b4?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-ff69b4?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-ff69b4?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-ff69b4?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-```md
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-1000%2B-brightgreen?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-Developer-orange?style=for-the-badge)
-![LeetCode](https://img.shields.io/badge/LeetCode-Daily%20Practice-yellow?style=for-the-badge)
-![DSA](https://img.shields.io/badge/DSA-Strengthening-blue?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-MySQL%20Practice-blueviolet?style=for-the-badge)
-![React](https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge)
+---
+
+## 📊 GitHub Status
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=reena-senthilkumar&show_icons=true&theme=tokyonight&title_color=ff69b4&icon_color=ff69b4" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=reena-senthilkumar&theme=tokyonight&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" />
+</p>
+
+---
+
+## 🌐 Connect With Me  
+<p align="center">
+  <a href="https://instagram.com/reena_senthilkumar"><img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/reena-s-0a738824b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/Senthilkumar31998649"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://github.com/reena-senthilkumar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+## 💻 Coding Profiles  
+<p align="center">
+  <a href="https://www.skillrack.com/faces/resume.xhtml?id=419444&key=13510aac980dfa894be6bacc7e3dc2bc11e6c110"><img src="https://img.shields.io/badge/Skillrack-Profile-1e90ff?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/reena_senthilkumar2005"><img src="https://img.shields.io/badge/LeetCode-ffa116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.hackerrank.com/profile/reenasenthilkum1"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/reena_s"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+</p>
+
+---
 
 ## 💻 Coding Profiles  
 <p align="center">
