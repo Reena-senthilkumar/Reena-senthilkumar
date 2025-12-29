@@ -66,6 +66,10 @@ A passionate CSBS student blending technology & creativity.<br>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Reena-senthilkumar&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
+## 📊 GitHub Status
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=reena-senthilkumar&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
 ---
 
 ## 🌐 Connect With Me  
