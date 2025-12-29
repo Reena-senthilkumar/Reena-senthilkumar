@@ -58,18 +58,14 @@ A passionate CSBS student blending technology & creativity.<br>
 ---
 
 ## 📊 GitHub Status
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reena-senthilkumar&show_icons=true&theme=tokyonight&title_color=ff69b4&icon_color=ff69b4" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=reena-senthilkumar&theme=tokyonight&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" />
-</p>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Reena-senthilkumar&theme=dracula&hide_border=true)](https://git.io/streak-stats)
-
-## 📊 GitHub Status
-
+  <img src="https://github-readme-stats.vercel.app/api?username=reena-senthilkumar&show_icons=true&theme=tokyonight&title_color=ff69b4&icon_color=ff69b4" width="420" />
+<br>
+  
 [![GitHub Streak](https://streak-stats.demolab.com?user=reena-senthilkumar&theme=radical&hide_border=true)](https://git.io/streak-stats)
-![Reena's GitHub stats](https://github-readme-stats.vercel.app/api?username=reena-senthilkumar&show_icons=true&theme=radical)
+  
+</p>
 
 ---
 
