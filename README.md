@@ -60,6 +60,8 @@ A passionate CSBS student blending technology & creativity.<br>
 ![](https://github-readme-stats.vercel.app/api?username=Reena-senthilkumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Reena-senthilkumar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Reena-senthilkumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Total Commits](https://img.shields.io/badge/Commits-1600%2B-brightgreen)
+
 
 ---
 
