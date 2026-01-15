@@ -60,6 +60,14 @@ A passionate CSBS student blending technology & creativity.<br>
 ![](https://github-readme-stats.vercel.app/api?username=Reena-senthilkumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Reena-senthilkumar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Reena-senthilkumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🔥 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reena-senthilkumar&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=reena-senthilkumar&theme=tokyonight)
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=reena-senthilkumar&theme=tokyo-night)
+
 ![Total Commits](https://img.shields.io/badge/Commits-1600%2B-brightgreen)
 
 
