@@ -55,11 +55,44 @@ A passionate CSBS student blending technology & creativity.<br>
 </p>
 
 ---
+<h2 align="center">📊 GitHub Status</h2>
 
-# 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reena-senthilkumar&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
+<div align="center">
 
+<!-- GitHub Overall Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=reena-senthilkumar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=0d1117" height="170"/>
 
+<!-- GitHub Streak -->
+<img src="https://streak-stats.demolab.com?user=reena-senthilkumar&hide_border=true&background=0D1117&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&sideLabels=ff69b4&dates=ffffff" height="170"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reena-senthilkumar&layout=compact&hide_border=true&title_color=ff69b4&text_color=ffffff&bg_color=0d1117" height="160"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<!-- Commit Badge -->
+<img src="https://img.shields.io/badge/Commits-1600%2B-ff69b4?style=for-the-badge"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=reena-senthilkumar&bg_color=0d1117&color=ffb6c1&line=ff69b4&point=ffffff&area=true&hide_border=true"/>
+
+</div>
 
 ---
 
