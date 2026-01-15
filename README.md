@@ -55,9 +55,14 @@ A passionate CSBS student blending technology & creativity.<br>
 </p>
 
 ---
-<h2 align="center">📊 GitHub Status</h2>
 
-# 📊 GitHub Stats
+<h2 >📊 GitHub Status</h2>
+# 📊 GitHub Stats:
+<div align="center">
+![](https://github-readme-stats.vercel.app/api?username=Reena-senthilkumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Reena-senthilkumar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Reena-senthilkumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 <table align="center">
 <tr>
