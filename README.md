@@ -10,7 +10,6 @@ A passionate CSBS student blending technology & creativity.<br>
 ## 🌼 About Me  
 - 💻 I solve **3 LeetCode problems daily** to improve my logic  
 - ✍️ I learn **10 new vocabulary words daily** to improve communication
-
 - 
 ---
 
