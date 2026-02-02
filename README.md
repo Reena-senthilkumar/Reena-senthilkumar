@@ -13,7 +13,6 @@ A passionate CSBS student blending technology & creativity.<br>
 - 
 ---
 
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=reena-senthilkumar&label=Profile%20Views&color=ff69b4&style=flat" />
 </p>
