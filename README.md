@@ -3,6 +3,7 @@
 <h3 align="center">
 A passionate CSBS student blending technology & creativity.<br>
 💡 I love solving problems, building useful projects, and learning something new every day.
+  
 ---
 
 ## 🌼 About Me  
