@@ -29,8 +29,6 @@ A passionate CSBS student blending technology & creativity.<br>
   <img src="https://github-profile-trophy.vercel.app/?username=reena-senthilkumar&theme=radical&column=3&no-frame=true&margin-w=15&margin-h=15" />
 </p>
 
-
-
 ---
 
 ## 👑 Achievement
