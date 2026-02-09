@@ -42,8 +42,6 @@ A passionate CSBS student blending technology & creativity.<br>
 - 🧼 Includes preprocessing, model evaluation & predictions  
 - 🎯 Purpose: Create awareness & analyze mental health patterns  
 
-
-
 ---
 
 ## 💗 Tech Skills
