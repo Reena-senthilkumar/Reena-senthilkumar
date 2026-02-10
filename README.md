@@ -76,7 +76,6 @@ A passionate CSBS student blending technology & creativity.<br>
 </tr>
 </table>
 
-
 <!-- Contribution Graph -->
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=reena-senthilkumar&bg_color=0d1117&color=ffb6c1&line=ff69b4&point=ffffff&area=true&hide_border=true"/>
