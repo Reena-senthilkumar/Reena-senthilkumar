@@ -57,7 +57,6 @@ A passionate CSBS student blending technology & creativity.<br>
 
 <h2 >📊 GitHub Status</h2>
 
-
 <table align="center">
 <tr>
 <td align="center">
